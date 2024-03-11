@@ -38,7 +38,7 @@ while url_id[n] != '/':
 #pioche un nombre aléatoire en fonction du nombre d'éléments dans la liste:    
 for index, element in enumerate(sentence):
     p = index 
-print(p)
+
 n = randrange(p)
  
 
