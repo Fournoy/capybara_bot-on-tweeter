@@ -16,7 +16,7 @@ En tant qu'utilisateur des médias numériques, il est de votre responsabilité 
 
 Si vous êtes victime de cyberharcèlement ou si vous en êtes témoin, n'hésitez pas à demander de l'aide à des adultes de confiance, aux autorités compétentes ou à des organisations spécialisées dans la lutte contre le harcèlement en ligne.
 
-Ensemble, nous pouvons créer un cyberespace plus sûr et plus bienveillant pour tous, en veillant à ce que des outils tels que "Capybara_bot" soient utilisés de manière éthique, responsable et dans un contexte éducatif.
+Ensemble, nous pouvons créer un cyberespace plus sûr et plus bienveillant pour tous, en veillant à ce que des outils tels que "Capybara_bot" soient utilisés uniquement à des fins éducatifs eet d'amusement.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
