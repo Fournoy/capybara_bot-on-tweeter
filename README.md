@@ -2,7 +2,7 @@
 Le programme est un "bot twitter", qui envoie des messages aléatoires à un tweet que vous choisissez. Il vous suffit d'entrer l'URL et le bot se charge du reste.
 
 
-Ce programme est un bot utilisant l'API V1 de tweeter, entièrement gratuite, il vous suffit de créer un compte twitter et de vous configurer un compte développeur. Ensuite vous pourrez utiliser 
+Ce programme est un bot utilisant l'API V1 de twitter, entièrement gratuite, il vous suffit de créer un compte twitter et de vous configurer un compte développeur. Ensuite vous pourrez utiliser 
 vos différents token pour pouvoir faire marcher le programme. Je vais vous montrer un rapide tuto pour que vous puissiez utiliser le programme de manière optimale. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
