@@ -13,7 +13,7 @@ Configuration du programme :
 Le programme est simple dans son fonctionnement tout comme dans son utilisation. Les phrases sont générées par chat GPT il y en actuellement 219, il est possible que de nouvelles phrases puissent être rajoutées.
 Pour pouvoir faire fonctionner le programme il est impératif de se faire un compte tweeter et de vous configurer un compte développeur. Ci-dessous un petit tuto pour s'y prendre.
 
-- Pour commencer créez vous un compte twiter.
+- Pour commencer créez vous un compte twitter.
 - Lorsque cela est fait allez sur ce lien : https://developer.twitter.com/fr
 - Lorsque cela est fait, allez dans la rubrique : "Developer portal"
 - Une fois dedans allez sur "Projects & Apps" En cliquant sur overview vous verrez une page avec aucun projet dessus.
