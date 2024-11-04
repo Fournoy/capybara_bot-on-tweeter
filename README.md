@@ -1,8 +1,8 @@
 # capybara_bot-on-tweeter
-Le programme est un "bot tweeter", qui envoie des messages aléatoires à un tweet que vous choisissez. Il vous suffit d'entrer l'URL et le bot se charge du reste.
+Le programme est un "bot twitter", qui envoie des messages aléatoires à un tweet que vous choisissez. Il vous suffit d'entrer l'URL et le bot se charge du reste.
 
 
-Ce programme est un bot utilisant l'API V1 de tweeter, entièrement gratuite, il vous suffit de créer un compte tweeter et de vous configurer un compte développeur. Ensuite vous pourrez utiliser 
+Ce programme est un bot utilisant l'API V1 de tweeter, entièrement gratuite, il vous suffit de créer un compte twitter et de vous configurer un compte développeur. Ensuite vous pourrez utiliser 
 vos différents token pour pouvoir faire marcher le programme. Je vais vous montrer un rapide tuto pour que vous puissiez utiliser le programme de manière optimale. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -13,7 +13,7 @@ Configuration du programme :
 Le programme est simple dans son fonctionnement tout comme dans son utilisation. Les phrases sont générées par chat GPT il y en actuellement 219, il est possible que de nouvelles phrases puissent être rajoutées.
 Pour pouvoir faire fonctionner le programme il est impératif de se faire un compte tweeter et de vous configurer un compte développeur. Ci-dessous un petit tuto pour s'y prendre.
 
-- Pour commencer créez vous un compte tweeter.
+- Pour commencer créez vous un compte twiter.
 - Lorsque cela est fait allez sur ce lien : https://developer.twitter.com/fr
 - Lorsque cela est fait, allez dans la rubrique : "Developer portal"
 - Une fois dedans allez sur "Projects & Apps" En cliquant sur overview vous verrez une page avec aucun projet dessus.
